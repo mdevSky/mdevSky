@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Mufni! 👋</h1>
-  <p><i>A passionate developer focusing on robust web applications and interactive experiences.</i></p>
+ <p><i>I love technology and learning new things. Always exploring and building projects across Web, IoT, Game Development, and custom software.</i></p>
 </div>
 
 ---
